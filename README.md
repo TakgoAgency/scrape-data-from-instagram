@@ -28,7 +28,7 @@ A ready-to-use boilerplate for building safe, scalable pipelines to **scrape dat
 > A developer-friendly template to collect public Instagram data (profiles, posts, comments, followers) with modular drivers (Playwright/Selenium or headless API wrappers), resilience against blocks, and structured JSON/CSV exports. Built for teams who value compliance-aware, rate-limited scraping.
 
 <p align="center">
-  <img src="scrape-data-from-instagram.png" alt="scrape data from instagram.png" width="80%">
+  <img src="scrape-data-from-instagram.png" alt="scrape-data-from-instagram.png" width="80%">
 </p>
 
 ###  Key Benefits
